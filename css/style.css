@@ -1,0 +1,24 @@
+@import url("../styles/cabecalho.css");
+@import url("../styles/sobre.css");
+@import url("../styles/vagas.css");
+@import url("../styles/comentarios.css");
+@import url("../styles/rodape.css");
+
+
+:root {
+    --fonte-principal: 'Inter';
+    --branco: #FFFFFF;
+    --vermelho: #8E2424;
+    --rosa: rgba(196, 25, 25, 0.03);;
+    --cinza: #667085;
+    --cinza-claro: #F9FAFB;
+    --cinza-copyright: #98A2B3;
+    --borda-cinza: #EAECF0;
+    --borda-pesquisa: #D0D5DD;
+}
+
+body {
+    background-color: var(--branco);
+    font-family: var(--fonte-principal);
+    
+}

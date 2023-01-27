@@ -1,0 +1,55 @@
+.sobre-nós {
+    margin: 6em 0;
+}
+
+.sobre {
+    text-align: center;
+    margin: 0 38vh;
+}
+
+.texto-vermelho {
+    color: var(--vermelho);
+    font-weight: 600;
+}
+
+.sobre__titulo {
+    font-size: 48px;
+    font-weight: 600;
+    margin: 1.5rem 0 2rem;
+}
+
+.sobre__texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza);
+    line-height: 30px;
+}
+
+.lista-informacoes {
+    display: flex;
+    margin: 6rem 10vh;
+    justify-content: space-between;
+}
+
+.informacoes__item {
+    width: 22%;
+
+}
+
+.informacoes__titulo {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho);
+
+}
+
+.informacoes__subtitulo {
+    font-size: 18px;
+    font-weight: 500;
+    margin: 1rem 0 0.5rem;
+}
+
+.informacoes__texto {
+    color: var(--cinza);
+    line-height: 24px;
+}

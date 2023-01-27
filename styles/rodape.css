@@ -1,0 +1,30 @@
+.rodape {
+    text-align: center;
+    background-color: var(--cinza-claro);
+    padding: 6rem 0;
+}
+
+.rodape__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+}
+
+.rodape__texto {
+    font-size: 20px;
+    color: var(--cinza);
+    margin-bottom: 2.5rem;
+}
+
+.rodape__pesquisa {
+    width: 24%;
+    border-radius: 8px;
+    border: 1px solid var(--borda-pesquisa);
+    padding: 0.8rem;
+    margin-right: 1rem;
+}
+
+.rodape__copyright {
+    color: var(--cinza-copyright);
+    margin-top: 2rem;
+}
